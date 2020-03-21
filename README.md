@@ -1,8 +1,8 @@
 # PFN インターン選考2019 コーディング課題 機械学習・数理分野
 
-Preferred Networksの2019年のインターン選考課題(機械学習・数理分野)です。
-GNN (Graph Neural Network) をフレームワークを用いずに実装しました。
-データセットや課題の詳細のリポジトリ : https://github.com/pfnet/intern-coding-tasks
+Preferred Networksの2019年のインターン選考課題(機械学習・数理分野)です。  
+GNN (Graph Neural Network) をフレームワークを用いずに実装しました。  
+データセットや課題の詳細のリポジトリ : https://github.com/pfnet/intern-coding-tasks  
 
 ## 実行環境
 - macOS Mojave 10.14.3
